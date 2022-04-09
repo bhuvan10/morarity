@@ -1,0 +1,17 @@
+*{
+    overflow-y: hidden;
+}
+/* h1{
+    color: orange;
+} */
+body{
+  background-color: black;
+}
+  .content {
+
+  text-align: center;
+font-size: 80px;
+padding-top: 250px;
+    color: #f1f1f1;
+
+  }
